@@ -1,1 +1,10 @@
-theme: minima
+remote_theme: ssokurenko/jekyll-smart-material
+
+title: techne gratia artis
+description: descriptionbla
+
+github_username: ramiropolla
+email: ramiro.polla@gmail.com
+
+minima:
+  date_format: "%Y-%m-%d"
