@@ -8,3 +8,6 @@ email: ramiro.polla@gmail.com
 
 minima:
   date_format: "%Y-%m-%d"
+
+baseurl: ""
+url: "http://ramiropolla.github.io"
