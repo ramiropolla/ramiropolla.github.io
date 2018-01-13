@@ -1,6 +1,10 @@
-# Site settings
-title: Smart Material Theme
-description: Slick Material Design theme for Jekyll powered by Material Design Lite.
+remote_theme: ramiropolla/jekyll-smart-material
 
-# Custom theme could be generated at: https://getmdl.io/customize/index.html
-material_theme: blue-deep_orange
+title: techne gratia artis
+description: descriptionbla
+
+github_username: ramiropolla
+email: ramiro.polla@gmail.com
+
+baseurl: ""
+url: "http://ramiropolla.github.io"
